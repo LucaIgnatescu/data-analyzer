@@ -1,0 +1,4 @@
+- Always use up to date docs, check if your docs are accurate if you are not sure.
+- I am using ESLint. ESLint styles now migrated to a separate thing. Make sure you are using the newest way to configure this stuff. It's probably not in your training data
+- I am using app router, so make sure this is up to date.
+- use the STACK_REFERENCE file to make sure you are aware of the latest features
